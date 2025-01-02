@@ -1,6 +1,6 @@
 # SMS-SPAM-DETECTION-USING-ML
 
-#The number of people using mobile devices increasing day by day. SMS (short message service)
+The number of people using mobile devices increasing day by day. SMS (short message service)
 is a text message service available in smartphones as well as basic phones. Therefore, the traffic
 of SMS increased drastically. The spam messages also increased. The hackers try to send spam
 messages for their financial or business benefits like market growth, lottery ticket information,
